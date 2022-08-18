@@ -2,7 +2,7 @@
 <br>
 Проект вдохновлен [серией видео](https://www.3blue1brown.com/topics/neural-networks) о нейронных сетях.
 
-`Нейросеть на SQL.sql` – скрипт на Transact-SQL с алгоритмом обучения и тестирования
+`Neural Network on SQL.sql` – скрипт на Transact-SQL с алгоритмом обучения и тестирования
 <br>
 `ANN_Sets.csv` – содержимое таблицы `ANN_Sets`, на котором обучалась и тестировалась сеть
 <br>
