@@ -1,7 +1,7 @@
-# Учебные проекты курса «Специалист по Data Science» от Яндекс Практикума
+﻿# Учебные проекты курса «Специалист по Data Science»<br>от Яндекс Практикума
 
-### Exploratory and Statistical Data Analysis
+### EDA and Statistics
 Проекты по исследовательскому и статистическому анализу данных
 
-### Machine Learning Modeling
+### Machine Learning
 Проекты по машинному обучению
